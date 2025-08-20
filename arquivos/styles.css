@@ -12,6 +12,10 @@ html{
     width: 15rem;
 }
 
+body{
+    background-image: url();
+}
+
 main{
     display: flex;
     flex-direction: column;
